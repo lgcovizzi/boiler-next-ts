@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.root": "/out",
+  "window.zoomLevel": 1,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+  },
+}

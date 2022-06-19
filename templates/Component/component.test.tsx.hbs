@@ -1,0 +1,11 @@
+import { renderTheme } from '../../styles/render-theme';
+import { {{pascalCase name}} } from '.';
+
+
+describe('<{{pascalCase name}} />', () => {
+  it('should render grid content', () => {
+    const { container } = renderTheme(<{{pascalCase name}}/>);
+    expect(container).toMatchSnapshot();
+  });
+
+  
